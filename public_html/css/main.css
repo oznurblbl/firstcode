@@ -1,0 +1,106 @@
+/* 
+    Created on : Sep 27, 2020, 4:20:06 PM
+    Author     : An
+*/
+
+#main-part{
+    width:1022px;
+/*  
+   border:1px solid blue;
+   float : left;
+   min-height: 462px;*/
+   background-color: yellow;
+}
+
+#main-content-part{
+   width:1920px;
+   margin:0px;
+   padding:0px;
+   font-family: monospace;
+}
+
+#menu-part{
+   width: 170px;
+   background-color:  bisque;
+   border:1px solid blue;
+   float:left;
+   min-height: 447px;
+}
+
+#header-part{
+   border:1px solid black;
+   width: 1022px;
+   height: 150px;
+   color:cornflowerblue;
+   background-color: background;
+   margin-top: -2px;
+   margin-left: -1px;
+}
+
+#footer-part{
+   width: 1024px;
+   /*text-align: center;*/
+   background-color: blueviolet;
+   min-height: 40px;
+   font-size:15px;
+   float:left;
+}
+
+#alt-menu-basligi{
+   font-size:16px;
+   font-family: sans-serif;
+}
+
+#img-banner{
+   width: 500px;
+   height: 200px;
+   margin-top: -27px;
+}
+
+#content-part{
+   width: 1022px;
+   border:1px solid gray;
+   min-height: 300px;
+   background-color: red;
+}
+
+#hakkimizda-paragrafi{
+   background-color: brown;
+   color:whitesmoke;
+}
+
+#hakkimizda-content-part{
+   width: 1022px;
+   border:1px solid gray;
+   min-height: 447px;
+   background-color: brown;
+}
+#iletisim-paragrafi{
+   background-color: cadetblue;
+   color:whitesmoke;
+}
+
+#iletisim-content-part{
+   width: 1022px;
+   border:1px solid black;
+   min-height:  447px;
+   background-color: cadetblue;
+}
+
+#iletisim-formu{
+   text-align:center;
+   font-weight: bold;
+}
+
+#egitimler-content-part{
+   width: 1022px;
+   border:1px solid black;
+   min-height:  447px;
+   background-color: azure;
+}
+
+#img-egitim-logolari{
+   width: 170px;
+   height: 150px;
+}
+
